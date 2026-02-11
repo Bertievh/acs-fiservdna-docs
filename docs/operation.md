@@ -1,6 +1,4 @@
----
-sidebar_label: 'Operational'
----
+# Operation
 
 Agent and Task definition are only supported through Solution Manager.
 

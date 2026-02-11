@@ -1,7 +1,3 @@
----
-sidebar_label: 'Installation'
----
-
 # FiservDNA ACS Installation
 
 Download the ACS FiservDNA software from the SMA FTP Site.

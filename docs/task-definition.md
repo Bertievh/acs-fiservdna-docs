@@ -1,6 +1,4 @@
----
-sidebar_label: 'Task Definition'
----
+# Task Definition
 
 ## Defining tasks
 

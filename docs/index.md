@@ -1,8 +1,3 @@
----
-slug: '/'
-sidebar_label: 'ACS FiservDNA Connector'
----
-
 # ACS FiservDNA Connector
 
 Financial institutions use Fiserv DNA for core processing to help attract and retain account holders, reduce expenses, and boost ROI. 

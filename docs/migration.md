@@ -1,8 +1,4 @@
----
-sidebar_label: 'Migration'
----
-
-# Legacy DNA to ACS DNA
+# Legacy DNA to ACS DNA Migration
 The conversion program provides a mechanism to migrate existing FiServ DNA legacy tasks to the new ACS Fiserv DNA environment.
 
 One of the major changes is that all information for the task execution is now contained within the OpCon environment instead of residing in various files associated with each connector installation.

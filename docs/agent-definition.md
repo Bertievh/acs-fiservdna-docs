@@ -1,6 +1,4 @@
----
-sidebar_label: 'Agent Definition'
----
+# Agent Definition
 
 All definitions can only be performed using Solution Manager.
 
