@@ -32,7 +32,7 @@ tasks.
 
 ### BUNDLE-RSJEDIT Task
 
-![Defining a BUNDLE-RSJEDIT Master Job](../static/img/bundle-rsjedit.png)
+
 1.  Open Solution Manager.
 2.  From the Home page select **Library**
 3.  From the ***Administration*** Menu select **Master Jobs**.
@@ -56,7 +56,7 @@ Enter details for Task Type **BUNDLE-RSJEDIT**.
 
 ### BUNDLE-SEQ-FTP Task
 
-![Defining a BUNDLE-SEQ-FTP Master Job](../static/img/bundle-seq-ftp.png)
+
 1.  Open Solution Manager.
 2.  From the Home page select **Library**
 3.  From the ***Administration*** Menu select **Master Jobs**.
@@ -80,7 +80,7 @@ Enter details for Task Type **BUNDLE-SEQ-FTP**.
 
 ### BUNDLE-SEQ-PROMPT Task
 
-![Defining a BUNDLE-SEQ-PROMPT Master Job](../static/img/bundle-seq-prompt.png)
+
 1.  Open Solution Manager.
 2.  From the Home page select **Library**
 3.  From the ***Administration*** Menu select **Master Jobs**.
@@ -104,7 +104,7 @@ Enter details for Task Type **BUNDLE-SEQ-PROMPT**.
 
 ### COPY-DATA-TO-LTRFILE Task
 
-![Defining a COPY-DATA-TO-LTRFILE Master Job](../static/img/copy-data-to-ltrfile.png)
+
 1.  Open Solution Manager.
 2.  From the Home page select **Library**
 3.  From the ***Administration*** Menu select **Master Jobs**.
@@ -127,7 +127,7 @@ Enter details for Task Type **COPY-DATA-TO-LTRFILE**.
 
 ### COPY-RENAME-LTRFILE-OUT Task
 
-![Defining a COPY-RENAME-LTRFILE-OUT Master Job](../static/img/copy-rename-ltrfile-out.png)
+
 1.  Open Solution Manager.
 2.  From the Home page select **Library**
 3.  From the ***Administration*** Menu select **Master Jobs**.
